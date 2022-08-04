@@ -5,3 +5,15 @@ body {
 .carousel-item img {
     filter: brightness(50%);
 }
+
+.main {
+    position: relative;
+
+}
+
+.positioning-content {
+    position: relative;
+    left: 190px;
+    margin-top: -20px;
+
+}
